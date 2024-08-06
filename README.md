@@ -1,4 +1,5 @@
-# PRODIGY_CS_01
+# Ceasar Cipher Encryption Decryption
+
 Users can encrypt and decrypt any message they want
 Steps to use:
 1. Download the python file Ceasar_Cipher.py
